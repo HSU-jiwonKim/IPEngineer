@@ -119,22 +119,3 @@ IPEngineer
 <br>
 
 ---
-
-### 빌드 방법
-
-```bash
-git clone https://github.com/HSU-jiwonKim/IPEngineer.git
-cd IPEngineer
-open IPEngineer.xcodeproj
-# Xcode에서 ⌘+R 로 실행 (iOS 14.5+ 시뮬레이터)
-```
-
-> AI 튜터 기능 사용 시 `AITutorView.swift`의 `apiKey`에 본인의 Gemini API 키를 입력하세요.
-> 발급: https://ai.google.dev
-
-### 참고자료
-
-- Apple — [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
-- Apple — [Human Interface Guidelines (iOS)](https://developer.apple.com/design/human-interface-guidelines)
-- Google — [Generative AI Documentation](https://ai.google.dev/docs)
-- 한국산업인력공단 — [정보처리기사 시험 정보](https://www.q-net.or.kr)
