@@ -112,9 +112,8 @@ IPEngineer
 
 ### 2.7 시연 영상
 
-[![IPEngineer 시연 영상]()](https://youtu.be/nf1S2KtTQr0)
+[▶ IPEngineer 시연 영상 보기](https://youtu.be/nf1S2KtTQr0)
 
-> YouTube 링크와 썸네일 이미지를 추가하세요. (영상 길이 3분 이내)
 
 <br>
 
