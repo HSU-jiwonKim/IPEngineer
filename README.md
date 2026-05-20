@@ -82,7 +82,7 @@ IPEngineer
 | <img src="docs/screenshots/tutor.png" width="220"/> | <img src="docs/screenshots/wrongnote.png" width="220"/> |
 | Gemini 실시간 채팅 · 빠른 질문 | 오답 자동 누적 · 다시 풀기 |
 
-> 스크린샷 이미지는 `docs/screenshots/` 폴더에 추가하세요.
+
 
 ### 2.4 기대효과
 
@@ -112,7 +112,7 @@ IPEngineer
 
 ### 2.7 시연 영상
 
-[![IPEngineer 시연 영상](docs/screenshots/thumbnail.png)](https://youtu.be/nf1S2KtTQr0)
+[![IPEngineer 시연 영상]()](https://youtu.be/nf1S2KtTQr0)
 
 > YouTube 링크와 썸네일 이미지를 추가하세요. (영상 길이 3분 이내)
 
